@@ -1,5 +1,3 @@
-# модуль экспорта данных 
-
 def export_data():
     with open('phone.csv', 'r') as file:
         data = []
